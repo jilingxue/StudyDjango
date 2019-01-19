@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\MxOnline\venv"
+VIRTUAL_ENV="C:\Users\37716\Desktop\test\StudyDjango\MxOnline\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
